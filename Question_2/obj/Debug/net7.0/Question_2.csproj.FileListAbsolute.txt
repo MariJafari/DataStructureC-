@@ -1,0 +1,14 @@
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\bin\Debug\net7.0\Question_2.exe
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\bin\Debug\net7.0\Question_2.deps.json
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\bin\Debug\net7.0\Question_2.runtimeconfig.json
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\bin\Debug\net7.0\Question_2.dll
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\bin\Debug\net7.0\Question_2.pdb
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\Question_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\Question_2.AssemblyInfoInputs.cache
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\Question_2.AssemblyInfo.cs
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\Question_2.csproj.CoreCompileInputs.cache
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\Question_2.dll
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\refint\Question_2.dll
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\Question_2.pdb
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\Question_2.genruntimeconfig.cache
+C:\Users\asusz\OneDrive\Desktop\semester4\COMP212-Programming 3\assignments\lab1\301321020(MarjanJafari)_Lab1\301321020(MarjanJafari)_Lab1\Question_2\obj\Debug\net7.0\ref\Question_2.dll
