@@ -55,7 +55,7 @@ namespace Question_2
         static void Main()
         {
             
-            StringBuilder textBuilder = new StringBuilder("This message it to test if the method will return accurate answer or not.");
+            StringBuilder textBuilder = new StringBuilder("This it to test whether the extension method count can return a right answer or not.");
 
             
             int wordCount = textBuilder.WordCount();
